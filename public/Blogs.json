@@ -1,0 +1,52 @@
+[
+    {
+        "id": "001",
+        "cover": "https://images.unsplash.com/photo-1518770660439-4636190af475",
+        "title": "Exploring the Digital World",
+        "author": "Sadia Rahman",
+        "author_img": "https://randomuser.me/api/portraits/women/65.jpg",
+        "posted_date": "2024-10-10",
+        "reading_time": 5,
+        "hashtags": ["#Technology", "#Innovation", "#Future"]
+    },
+    {
+        "id": "002",
+        "cover": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6",
+        "title": "The Art of Minimalist Living",
+        "author": "Arif Ahmed",
+        "author_img": "https://randomuser.me/api/portraits/men/76.jpg",
+        "posted_date": "2024-09-25",
+        "reading_time": 3,
+        "hashtags": ["#Lifestyle", "#Minimalism", "#Simplicity"]
+    },
+    {
+        "id": "003",
+        "cover": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+        "title": "Mastering JavaScript in 2024",
+        "author": "Fahim Islam",
+        "author_img": "https://randomuser.me/api/portraits/men/75.jpg",
+        "posted_date": "2024-08-15",
+        "reading_time": 7,
+        "hashtags": ["#JavaScript", "#Programming", "#WebDevelopment"]
+    },
+    {
+        "id": "004",
+        "cover": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+        "title": "Travel on a Budget",
+        "author": "Mira Sultana",
+        "author_img": "https://randomuser.me/api/portraits/women/64.jpg",
+        "posted_date": "2024-07-20",
+        "reading_time": 4,
+        "hashtags": ["#Travel", "#BudgetTravel", "#Adventure"]
+    },
+    {
+        "id": "005",
+        "cover": "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
+        "title": "Healthy Eating Habits",
+        "author": "Raihan Chowdhury",
+        "author_img": "https://randomuser.me/api/portraits/men/79.jpg",
+        "posted_date": "2024-06-30",
+        "reading_time": 6,
+        "hashtags": ["#Health", "#Nutrition", "#Wellness"]
+    }
+]
